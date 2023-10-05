@@ -1,6 +1,6 @@
 # binaryPy
 
-Converso simples de decimal para binario feito em python
+Converso simples de decimal para binário feito em python
 
 Exemplo de input:
    'python3 main.py -B 50'
